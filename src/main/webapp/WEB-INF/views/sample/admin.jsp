@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>ADMIN PAGE</h1>
+<h2>ADMIN PAGE</h2>
 </body>
 </html>
