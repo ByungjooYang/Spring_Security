@@ -11,8 +11,8 @@ import lombok.extern.log4j.Log4j;
 public class SampleController {
 	
 	@GetMapping("/sample/all")
-	public void doAll() {
-		
+	public String doAll() {
+		return "/sample/all";
 	}
 	
 	@GetMapping("/sample/member")
